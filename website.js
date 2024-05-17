@@ -5,7 +5,7 @@ function validateForm() {
     var message = document.getElementById('message').value;
 
     if (firstName === '' || lastName === '' || email === '' || message === '') {
-      alert('Please fill out all fields before submitting the form.');
+      alert('Fulfill The Form.');
       return false;
     }
 
