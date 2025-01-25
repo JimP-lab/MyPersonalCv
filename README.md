@@ -1,13 +1,14 @@
-Personal Cv is a page that shows the credentials of my cv.
+## Personal CV
 
-Personal Cv was created with html css javascript, prompt engineering And a contact form using formspark.io.
+Personal CV is a web page showcasing my professional credentials, created using HTML, CSS, and JavaScript. 
 
-Personal Cv was deployed with GitHub pages with a custom domain in 7 minutes and now the domain currently is used in another project but i manage to do the process in the timeframe of 7 minutes.
+### Features:
+- **Prompt Engineering:** Efficiently structured for optimal user interaction.
+- **Contact Form:** Integrated with [Formspark.io](https://formspark.io/) for easy communication.
 
-Here is the link to cv page: https://jimp-lab.github.io/MyPersonalCv/
+### Deployment:
+This project was deployed with GitHub Pages within just 7 minutes. Although the custom domain is currently used for another project, the deployment process remains efficient and straightforward.
 
-Here is the link to formspark.io: https://formspark.io/
-
-Here is the link to GitHub pages: https://pages.github.com/
-
-
+### Links:
+- **Live CV Page:** [Personal CV](https://jimp-lab.github.io/MyPersonalCv/)
+- **GitHub Pages:** [Learn More](https://pages.github.com/)
